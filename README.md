@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<h4 align="center">Currently pursueing B.Tech in Computer Science and Engineering </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs024&label=Profile%20views&color=0e75b6&style=flat" alt="hs024" /> </p>
 
 - 🌱 I’m currently learning **React and Web Tech**
 
-- 👨‍💻 All of my projects are available at [https://hs024.github.io/portpolio/project.html](https://hs024.github.io/portpolio/project.html)
+- 👨‍💻 All of my projects are available at [https://hs024](https://hs024)
 
-- 💬 Ask me about **python , Javascript ,Web Technology**
+- 💬 Ask me about **Python , Data Structure and algorithms ,Web Technology**
 
 - 📫 How to reach me **hs0242262@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lEPpAz36qfIeXzKtclrnbTnR81sp2Cr4/view?usp=drivesdk](https://drive.google.com/file/d/1lEPpAz36qfIeXzKtclrnbTnR81sp2Cr4/view?usp=drivesdk)
 
+- 👨‍💻 My portpolio website  available at [Here](https://hs024.github.io/portpolio-main/index.html)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-32a024231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-sharma-32a024231" height="30" width="40" /></a>
