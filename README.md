@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React and Web Tech**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/hs024)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hs024)
 
 - 💬 Ask me about **python , Javascript ,Web Technology ,DSA**
 
 - 📫 How to reach me **hs0242262@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lEPpAz36qfIeXzKtclrnbTnR81sp2Cr4/view?usp=drivesdk)
+- 📄 Know about my experiences by viewing my [Resume](https://drive.google.com/file/d/1lEPpAz36qfIeXzKtclrnbTnR81sp2Cr4/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
