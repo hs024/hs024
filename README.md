@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs024&label=Profile%20views&color=0e75b6&style=flat" alt="hs024" /> </p>
 
-- 🌱 I’m currently learning **React and Web Tech**
+- 🌱 I’m currently learning **Web Tech**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/hs024)
 
